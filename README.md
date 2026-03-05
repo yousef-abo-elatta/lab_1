@@ -37,7 +37,7 @@ git commit -m "commit 3"
 git commit -m "commit 4"
 
 # Delete last 2 commits
-git reset --hard HEAD~2
+git reset --soft HEAD~2
 
 # Add new commit
 git commit -m "commit after deletion"
