@@ -27,7 +27,7 @@
 
 3. **Initial Commit**
    - Created the file `Yousef_Mohamed_Ahmed.txt` with my full name.
-   - Made the first commit: `Initial commit with my name`.
+   - Made the first commit: `my full name`.
    - Pushed the local repo to GitHub.
 
 # Additional commits
